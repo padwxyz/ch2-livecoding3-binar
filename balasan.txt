@@ -1,0 +1,6 @@
+hello juga anjay cihuyy
+
+mambuat file masing masing di project team yang menghasilkan function asynchrounous dimana fungsi di dalamnya itu melakukan baca file atau write file, terus saat manggil http tag url nya ke nama orangnya run function orangnya
+
+1. setiap orang bikin file masing2 di project tim nya, ini function async, dimana fungsi di dalam nya itu melakukan write file
+2. saat manggil http path url nya ke nama orang nya, run function orang nya
